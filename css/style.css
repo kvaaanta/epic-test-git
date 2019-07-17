@@ -8,3 +8,6 @@ header {
 .promo {
 	color: #000;
 }
+footer {
+	display: block;
+}
